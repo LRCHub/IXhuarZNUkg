@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "bibouroku",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-02-07T13:51:41.509046Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bibouroku",
+      "artist": "GOT7",
+      "has_synced": true,
+      "path": "select/01_Bibouroku_GOT7.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "bibouroku",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/02_bibouroku_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "bibouroku",
+      "artist": "Sana",
+      "has_synced": true,
+      "path": "select/03_bibouroku_Sana.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bibouroku (Self Cover Ver.)",
+      "artist": "Takasetoya",
+      "has_synced": false,
+      "path": "select/04_Bibouroku_(Self_Cover_Ver.)_Takasetoya.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "bibouroku",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/05_bibouroku_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "BIBOUROKU",
+      "artist": "Lenny Code Fiction",
+      "has_synced": true,
+      "path": "select/06_BIBOUROKU_Lenny_Code_Fiction.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "11. Bibouroku",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/07_11._Bibouroku_DUSTCELL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "bibouroku",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_bibouroku_DUSTCELL.txt"
+    }
+  ]
+}
